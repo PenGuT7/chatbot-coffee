@@ -1,1 +1,1 @@
-streamlit
+streamlit, openai, panda, os, time, numpy, kpss, adfuller, plot_acf, STL, ARIMA, auto_arima
